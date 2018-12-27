@@ -5,6 +5,7 @@
 	<artifactId>AVNCommunication</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
+	
 	<name>AVNCommunication Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
